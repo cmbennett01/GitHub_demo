@@ -1,2 +1,3 @@
-# GitHub_demo
-A demo repository to practice
+# GitHub Demo
+
+A demonstration repository to practice managing a repository.
